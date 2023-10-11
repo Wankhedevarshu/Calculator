@@ -79,7 +79,7 @@ body{
 }
 .switchBox input:checked ~ .box{
     left: 60%;
-    background: #ff0303;
+    background: #0bcdf0;
 }
 .input{
     width: 100%;
